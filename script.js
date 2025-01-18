@@ -1,3 +1,5 @@
+
+
 //Get Quotes from API
 async function getQuotes() {
     ...
