@@ -49,7 +49,7 @@ body{
     font-style: italic;
 }
 
-/* Media Queries */
+/* Media Query: Tablet or Smaller*/
 @media  (max-width: 1000px) {
     .quote-container{
         margin: auto 10px;
